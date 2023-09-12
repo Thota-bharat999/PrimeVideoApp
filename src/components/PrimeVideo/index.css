@@ -1,0 +1,16 @@
+.prime-video {
+  width: 100%;
+  height: 30vh;
+}
+.video-container {
+  background-color: #000000;
+  width: 100vw;
+  height: 100vh;
+  padding: 40px;
+}
+.title-movie {
+  font-family: 'Roboto';
+  font-weight: 700;
+  font-size: 30px;
+  color: #ffffff;
+}
